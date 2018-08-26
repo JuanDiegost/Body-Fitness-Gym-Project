@@ -13,9 +13,9 @@ Proyecto trabajo de campo
 -	[x] Antecendentes
 -	[x] Definicion del problema
 -	[x] justificacion
--	[/] objetivos
--	[/] 	general
--	[/] 	especificos
+-	[x] objetivos
+-	[x] 	general
+-	[x] 	especificos
 -	[ ] alcance y limitaciones
 -	[ ] procedimiento (metodologia de desarrollo de sw)
 -	[ ] CRONOGRAMA
