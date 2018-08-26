@@ -3,10 +3,10 @@ Proyecto trabajo de campo
 
 ## Integrantes
 
-* Cesar Nicolas Cardozo
-* William Gil
-* Fernando Rodriguez
-* Juan Diego Molina
+* Cesar Nicolas Cardozo Rincón
+* William Desiderio Gil Farfán
+* Robinson Fernando Rodríguez Aponte
+* Juan Diego Molina Muñoz
 
 *Anteproyecto*
 -	[x] Titulo
