@@ -19,8 +19,8 @@ Proyecto trabajo de campo
 -	[ ] alcance y limitaciones
 -	[x] procedimiento (metodologia de desarrollo de sw)
 -	[ ] CRONOGRAMA
--		[ ] definir herramienta para llevar el cronograma
--		[ ] establecer fechas para el desarrollo segun metod de desarrollo de sw.
+-	[ ] definir herramienta para llevar el cronograma
+-	[ ] establecer fechas para el desarrollo segun metod de desarrollo de sw.
 -	[x] recursos
 -	[x] bibliografia
 ---------------------------------------------------------------
