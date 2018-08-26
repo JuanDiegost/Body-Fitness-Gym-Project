@@ -10,12 +10,12 @@ Proyecto trabajo de campo
 
 *Anteproyecto*
 -	[x] Titulo
--	[x] Antecendentes 
--	[/] Definicion del problema
--	[/] justificacion
--	[ ] objetivos
--		[ ] general
--		[ ] especificos
+-	[x] Antecendentes
+-	[x] Definicion del problema
+-	[x] justificacion
+-	[/] objetivos
+-	[/] 	general
+-	[/] 	especificos
 -	[ ] alcance y limitaciones
 -	[ ] procedimiento (metodologia de desarrollo de sw)
 -	[ ] CRONOGRAMA
