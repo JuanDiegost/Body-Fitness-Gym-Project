@@ -10,7 +10,7 @@ Proyecto trabajo de campo
 
 *Anteproyecto*
 -	[x] Titulo
--	[ ] Antecendentes
+-	[x] Antecendentes 
 -	[/] Definicion del problema
 -	[/] justificacion
 -	[ ] objetivos
