@@ -1,4 +1,4 @@
-# Body-Fitness-Gym-Project
+﻿# Body-Fitness-Gym-Project
 Proyecto trabajo de campo
 
 ## Integrantes
@@ -8,19 +8,16 @@ Proyecto trabajo de campo
 * Robinson Fernando Rodríguez Aponte
 * Juan Diego Molina Muñoz
 
-*Anteproyecto*
--	[x] Titulo
--	[x] Antecendentes
--	[x] Definicion del problema
--	[x] justificacion
--	[x] objetivos
--	[x] 	general
--	[x] 	especificos
--	[ ] alcance y limitaciones
--	[x] procedimiento (metodologia de desarrollo de sw)
--	[ ] CRONOGRAMA
--	[ ] definir herramienta para llevar el cronograma
--	[ ] establecer fechas para el desarrollo segun metod de desarrollo de sw.
--	[x] recursos
--	[x] bibliografia
+*Revisiones*
+-	[ ] Descripcion del sistema
+-	[ ] marco empresarial
+-	[ ] marco legal 
+-	[ ] reglas del negocio
+
+-	[ ] analisis de requisitos
+
+-       [ ] casos de uso, carpeta
+
+-	[ ] arreglar fechas en todos los documentos y autores y leer que esten acordes
+
 ---------------------------------------------------------------
