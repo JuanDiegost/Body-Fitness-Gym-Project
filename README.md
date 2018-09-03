@@ -15,7 +15,7 @@ Proyecto trabajo de campo
 -	[ ] marco legal 
 -	[ ] reglas del negocio
 -----------------------------------------------------
--	[ ] analisis de requisitos Cesar Cardozo, Le estoy dando
+-	[x] analisis de requisitos Cesar Cardozo, Le estoy dando
 -----------------------------------------------------
 -       [ ] casos de uso, carpeta
 -----------------------------------------------------
