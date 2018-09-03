@@ -12,8 +12,8 @@ Proyecto trabajo de campo
 -----------------------------------------------------
 -	[x] Descripcion del sistema
 -	[x] marco empresarial
--	[ ] marco legal 
--	[ ] reglas del negocio
+-	[x] marco legal 
+-	[x] reglas del negocio
 -----------------------------------------------------
 -	[x] analisis de requisitos Cesar Cardozo, Le estoy dando
 -----------------------------------------------------
