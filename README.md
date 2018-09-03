@@ -10,8 +10,8 @@ Proyecto trabajo de campo
 
 *Revisiones*
 -----------------------------------------------------
--	[ ] Descripcion del sistema
--	[ ] marco empresarial
+-	[x] Descripcion del sistema
+-	[x] marco empresarial
 -	[ ] marco legal 
 -	[ ] reglas del negocio
 -----------------------------------------------------
