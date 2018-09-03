@@ -9,15 +9,16 @@ Proyecto trabajo de campo
 * Juan Diego Molina Muñoz
 
 *Revisiones*
+-----------------------------------------------------
 -	[ ] Descripcion del sistema
 -	[ ] marco empresarial
 -	[ ] marco legal 
 -	[ ] reglas del negocio
-
--	[ ] analisis de requisitos
-
+-----------------------------------------------------
+-	[ ] analisis de requisitos Cesar Cardozo, Le estoy dando
+-----------------------------------------------------
 -       [ ] casos de uso, carpeta
-
+-----------------------------------------------------
 -	[ ] arreglar fechas en todos los documentos y autores y leer que esten acordes
 
 ---------------------------------------------------------------
